@@ -1,23 +1,23 @@
-### Hi there 
-**Hello 👋**
+### **Hello 👋 I'm D	**
 
-_I am a software engineer that loves to solve issues on our society using tech!_
+I am a software engineer that loves to solve issues on our society using tech! 
 
-🔭 I’m currently working on PYTHON TEMPLATES
+🔭 I'm currently working on **PYTHON TEMPLATES**
 
 ⚡ Fun fact: Taking my MS in Computer Science
 
 🌱 I’m currently learning NextJS, Tailwind
-<!--
-**RadySonabu/RadySonabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Background
+### Education :tw-1f4dd: 
+BS Food Technology @ [PUP-Manila](https://www.pup.edu.ph/ "PUP-Manila")
+Short Course - Java 1 @ [UP-Diliman](https://upd.edu.ph/ "UP-Diliman")
+BS Computer Science @ [TIP-Manila](https://www.tip.edu.ph/ "TIP-Manila")
+### Work  :tw-1f4bc:
+**Quadralogix** as a *Full Stack Developer*
+**Cargobase** as a *Software Developer*
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 
-- ⚡ Fun fact: ...
--->
+## Future Plans
+:tw-1f310: Build my own tech company that solves social issues in the PH!
+
