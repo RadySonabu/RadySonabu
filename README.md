@@ -1,11 +1,11 @@
-### **Hello 👋 I'm D	**
+### **Hello 👋 I'm Dy	**
 
 I am a software engineer that loves to solve issues on our society using tech! 
 
 🔭 I'm currently working on **PYTHON TEMPLATES**
 
 # 💫 About Me:
-I'm currently working at Shrader Technologies<br>I'm currently taking my MS Computer Science degree
+I'm currently working as a Data Engineer<br>I finished my MS Computer Science degree last year! 😃<br>
 
 
 ## 🌐 Socials:
